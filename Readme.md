@@ -1,6 +1,6 @@
 Android Calculator App
 
 This is Calculator 
-# Tried to mimic basic android app
+# Tried to make a basic calculator android app
 
-Just over
+
