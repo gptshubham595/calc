@@ -1,6 +1,5 @@
-Android Calculator App
+# Android Calculator App
 
-This is Calculator 
-# Tried to make a basic calculator android app
+A basic calculator android app made on Android Studio
 
 
